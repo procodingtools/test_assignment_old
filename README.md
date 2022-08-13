@@ -1,16 +1,14 @@
-# test_assignment
+# Test Assignment
 
-A new Flutter project.
+this Application was written 100% in [Flutter](https://flutter.dev/) using [BLoC](https://pub.dev/packages/flutter_bloc) pattern.
 
-## Getting Started
+## How does it works
+This app using a local DB as Authentication storage called ```Hive```. Initially, there's no registered user so we have to go to Signup in order to create a new user then  we can use it later.
 
-This project is a starting point for a Flutter application.
+For medications, the app using a mockup which can be found [here](https://run.mocky.io/v3/55feede9-58c6-4dad-a609-6426e91b72f8).
 
-A few resources to get you started if this is your first Flutter project:
+Please feel free to contact me for any questions or concerns.
+Thank you.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credits:
+ - [Flutter](https://flutter.dev/)
